@@ -27,20 +27,20 @@ public:
         vector<vector<int>> vis(m , vector<int>(n , 0));
 
         for(int i = 0 ; i < m ; i++){
-            if(board[i][0] == 'O' ) vis[i][0] = 1 ;
-            if(board[i][n-1] == 'O') vis[i][n-1] = 1 ;
+            if(board[i][0] == 'O' && vis[i][0] == 0){
+                dfs(i , 0 , board , vis);
+            }
+            if(board[i][n-1] == 'O' && vis[i][n-1] == 0){
+                dfs(i , n-1 , board , vis);
+            }
         }
 
         for(int j = 0 ; j < n ; j++){
-            if(board[0][j] == 'O' ) vis[0][j] = 1 ;
-            if(board[m-1][j] == 'O' ) vis[m-1][j] = 1 ;
-        }
-
-        for(int i = 0 ; i < m ; i++){
-            for(int j = 0 ; j <  n ; j++){
-                if(vis[i][j] == 1 && board[i][j] == 'O'){
-                    dfs(i , j , board , vis);
-                }
+            if(board[0][j] == 'O' && vis[0][j] == 0 ){
+                dfs(0 , j , board , vis);
+            }
+            if(board[m-1][j] == 'O' && vis[m-1][j] ==0 ){
+                dfs(m-1 , j, board , vis);
             }
         }
 
