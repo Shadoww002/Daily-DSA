@@ -3,7 +3,6 @@ private :
     bool dfs(int node , vector<vector<int>>&adj , vector<int>&vis , vector<int> &pathvis){
         vis[node] = 1 ;
         pathvis[node] = 1 ;
-
         for(auto it : adj[node]){
             if(vis[it] == 0){
                 if(dfs(it , adj , vis , pathvis) == true) return true ;
@@ -26,7 +25,7 @@ public:
             int u = it[0];
             int v = it[1];
 
-            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
 
         vector<int> vis(n , 0);
@@ -37,7 +36,6 @@ public:
                 if(dfs(i , adj , vis , pathvis) == true) return false ;
             }
         }
-
         return true ;
     }
 };
