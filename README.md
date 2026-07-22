@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Shadoww002/Daily-DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0207-course-schedule](https://github.com/Shadoww002/Daily-DSA/tree/main/0207-course-schedule/) | Medium |
 | [0542-01-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Shadoww002/Daily-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shadoww002/Daily-DSA/tree/main/1020-number-of-enclaves/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Shadoww002/Daily-DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0207-course-schedule](https://github.com/Shadoww002/Daily-DSA/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Shadoww002/Daily-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shadoww002/Daily-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
@@ -41,5 +43,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Shadoww002/Daily-DSA/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Shadoww002/Daily-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Shadoww002/Daily-DSA/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
