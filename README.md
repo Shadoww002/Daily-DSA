@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Shadoww002/Daily-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/0542-01-matrix/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shadoww002/Daily-DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Shadoww002/Daily-DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Shadoww002/Daily-DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 <!---LeetCode Topics End-->
