@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Shadoww002/Daily-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/0542-01-matrix/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shadoww002/Daily-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Shadoww002/Daily-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Dynamic Programming
@@ -78,9 +79,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shadoww002/Daily-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadoww002/Daily-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shadoww002/Daily-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadoww002/Daily-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->
