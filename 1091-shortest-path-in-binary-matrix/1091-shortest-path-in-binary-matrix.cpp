@@ -7,15 +7,12 @@ public:
         vector<vector<int>> dist(n , vector<int>(n , INT_MAX));
         dist[0][0] = 1 ;
 
-        priority_queue<pair<int , pair<int , int>> , 
-                    vector<pair<int , pair<int ,int>>> ,
-                    greater<pair<int , pair<int , int>>>
-                    > pq ;
+        queue<pair<int , pair<int , int>>> pq ;
 
         pq.push({1 , {0 , 0}});
 
         while(!pq.empty()){
-            auto it = pq.top();
+            auto it = pq.front();
             pq.pop();
             int dis = it.first;
             int row = it.second.first;
