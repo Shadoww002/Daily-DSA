@@ -29,8 +29,9 @@ public:
                 }
             }
         }
-        int num = 0 ;
+        int city = -1;
         int count = INT_MAX;
+
         for(int i = 0 ; i < n ; i ++){
             int cnt = 0 ;
             for(int j = 0 ; j < n ; j++){
@@ -39,12 +40,12 @@ public:
                 }
             }
             if(cnt <= count){
-                num = i ;
+                city = i ;
                 count = cnt ;
             }
         }
 
-        return num ;
+        return city;
 
     }
 };
