@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Shadoww002/Daily-DSA/tree/main/0127-word-ladder/) | Hard |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadoww002/Daily-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadoww002/Daily-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -130,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shadoww002/Daily-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shadoww002/Daily-DSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shadoww002/Daily-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
