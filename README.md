@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Shadoww002/Daily-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Shadoww002/Daily-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadoww002/Daily-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadoww002/Daily-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadoww002/Daily-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -147,4 +150,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 <!---LeetCode Topics End-->
