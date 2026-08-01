@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadoww002/Daily-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
+| [0827-making-a-large-island](https://github.com/Shadoww002/Daily-DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Shadoww002/Daily-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadoww002/Daily-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Shadoww002/Daily-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shadoww002/Daily-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Shadoww002/Daily-DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0827-making-a-large-island](https://github.com/Shadoww002/Daily-DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Shadoww002/Daily-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shadoww002/Daily-DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Shadoww002/Daily-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/0542-01-matrix/) | Medium |
+| [0827-making-a-large-island](https://github.com/Shadoww002/Daily-DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Shadoww002/Daily-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Shadoww002/Daily-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -61,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Shadoww002/Daily-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shadoww002/Daily-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Shadoww002/Daily-DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0827-making-a-large-island](https://github.com/Shadoww002/Daily-DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shadoww002/Daily-DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shadoww002/Daily-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shadoww002/Daily-DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -72,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Shadoww002/Daily-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Shadoww002/Daily-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0827-making-a-large-island](https://github.com/Shadoww002/Daily-DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shadoww002/Daily-DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shadoww002/Daily-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Shadoww002/Daily-DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
