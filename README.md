@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadoww002/Daily-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Shadoww002/Daily-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3731-find-missing-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shadoww002/Daily-DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadoww002/Daily-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadoww002/Daily-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
