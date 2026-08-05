@@ -23,7 +23,7 @@ public:
             }
         }
 
-        vector<int> ans;
+        
         for (auto vec : invocations) {
             int u = vec[0];
             int v = vec[1];
@@ -34,7 +34,7 @@ public:
                 return ans;
             }
         }
-
+        vector<int> ans;
         for (int i = 0; i < n; i++) {
             if (vis[i] == 0) {
                 ans.push_back(i);
