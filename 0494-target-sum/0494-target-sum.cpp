@@ -1,9 +1,9 @@
 class Solution {
     vector<vector<int>> dp;
     int Subset(int n, int sum, vector<int>& nums) {
-        if (n == 0) {
-            if (sum == 0)
-                return 1;
+        if (n == 1) {
+            if (sum == 0 && nums[0] == 0) return 2 ;
+            else if (sum == 0 || nums[0] == sum) return 1 ;
             return 0;
         }
         if (dp[n][sum] != -1)
@@ -24,10 +24,9 @@ public:
         int total = 0 ;
         for(int x : nums) total += x ;
         dp.assign(n + 1, vector<int>(total + 1, -1));
-        target = abs(target);
-        int val = (total + target)/2 ;
 
-        if((total + target) % 2 != 0 || total < target) return 0 ;
+        int val = (total + target)/2 ;
+        if((total + target) % 2 != 0 || total < abs(target)) return 0 ;
         return Subset(n, val, nums);
     }
 };
