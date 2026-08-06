@@ -10,10 +10,10 @@ class Solution {
             return dp[n][sum];
 
         if (nums[n - 1] <= sum) {
-            return Subset(n - 1, sum - nums[n - 1], nums) +
-                   Subset(n - 1, sum, nums);
+            return dp[n][sum] = Subset(n - 1, sum - nums[n - 1], nums) +
+                                Subset(n - 1, sum, nums);
         } else {
-            return Subset(n - 1, sum , nums);
+            return dp[n][sum] = Subset(n - 1, sum , nums);
         }
     }
 
