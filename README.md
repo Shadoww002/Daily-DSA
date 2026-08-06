@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Shadoww002/Daily-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadoww002/Daily-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Shadoww002/Daily-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -213,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-invalid-tweets](https://github.com/Shadoww002/Daily-DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shadoww002/Daily-DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Shadoww002/Daily-DSA/tree/main/1873-calculate-special-bonus/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
