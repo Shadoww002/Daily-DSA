@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Shadoww002/Daily-DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/Shadoww002/Daily-DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Shadoww002/Daily-DSA/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/Shadoww002/Daily-DSA/tree/main/1148-article-views-i/) | Easy |
