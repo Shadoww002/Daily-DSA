@@ -6,17 +6,18 @@ public:
         int i = 0 , j = 0 ;
 
         int maxx = 0 ;
-        queue<int> q ;
+        int zeros = 0 ;
+        // queue<int> q ;
 
         while(j < n){
 
             if(nums[j] == 0){
-                q.push(j);
+                zeros++ ;
             }
 
-            if(q.size() > k){
-                i = q.front() + 1;
-                q.pop();
+            while(zeros > k){
+                if(nums[i] == 0) zeros-- ;
+                i++ ;
             }
             maxx = max(maxx , j-i+1);
             j++ ;
