@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Shadoww002/Daily-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/Shadoww002/Daily-DSA/tree/main/0827-making-a-large-island/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/Shadoww002/Daily-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shadoww002/Daily-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadoww002/Daily-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Shadoww002/Daily-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/Shadoww002/Daily-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Shadoww002/Daily-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -241,4 +243,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Shadoww002/Daily-DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shadoww002/Daily-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Shadoww002/Daily-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Shadoww002/Daily-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
