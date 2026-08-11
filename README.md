@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shadoww002/Daily-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Shadoww002/Daily-DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shadoww002/Daily-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shadoww002/Daily-DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shadoww002/Daily-DSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shadoww002/Daily-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Breadth-First Search
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Shadoww002/Daily-DSA/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Shadoww002/Daily-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shadoww002/Daily-DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Backtracking
