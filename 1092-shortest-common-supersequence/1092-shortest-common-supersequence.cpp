@@ -32,46 +32,29 @@ public:
             }
             else{
                 if(dp[i-1][j] > dp[i][j-1]){
+                    s.push_back(str1[i-1]);
                     i-- ;
                 }
                 else{
+                    s.push_back(str2[j-1]);
                     j-- ;
                 }
             }
         }
+
+        while(i > 0 ){
+            s.push_back(str1[i - 1]);
+            i-- ;
+        }
+        while(j > 0){
+            s.push_back(str2[j - 1]);
+            j-- ;
+        }
+
         reverse(s.begin() , s.end());
 
-        string ans = "";
-        int k = 0 ;
-        i = 0 , j = 0 ;
 
-        while(k < s.size()){
-            if(str1[i] == s[k] && str2[j] == s[k]){
-                ans += s[k];
-                i++ ;
-                j++ ;
-                k++ ;
-            }
-            else if(str1[i] != s[k]){
-                ans += str1[i];
-                i++ ;
-            }
-            else if(str2[j] != s[k]){
-                ans += str2[j];
-                j++ ;
-            }
-        }
-
-        while(i < n){
-            ans += str1[i];
-            i++ ;
-        }
-        while(j < m){
-            ans += str2[j];
-            j++ ;
-        }
-
-        return ans ;
+        return s ;
 
     }
 };
