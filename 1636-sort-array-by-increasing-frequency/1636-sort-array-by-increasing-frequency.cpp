@@ -12,16 +12,11 @@ public:
 
         unordered_map<int , int> mp ;
         for(int x : nums) mp[x]++ ;
-
-        for(int x : nums){
-            if(mp.find(x) != mp.end()){
-                temp.push_back({mp[x] , x});
-                mp.erase(x);
-            }
+            
+        for(auto &[x , f] : mp){
+            temp.push_back({f , x});
         }
-
         sort(temp.begin() , temp.end() ,cmp);
-
         vector<int> ans;
         for(auto it : temp){
             int cnt = it.first ;
