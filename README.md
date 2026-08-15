@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Shadoww002/Daily-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Shadoww002/Daily-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0322-coin-change](https://github.com/Shadoww002/Daily-DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Shadoww002/Daily-DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Shadoww002/Daily-DSA/tree/main/0494-target-sum/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Shadoww002/Daily-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Shadoww002/Daily-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Shadoww002/Daily-DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Shadoww002/Daily-DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
