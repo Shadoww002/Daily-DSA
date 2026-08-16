@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/Shadoww002/Daily-DSA/tree/main/0619-biggest-single-number/) | Easy |
 | [1148-article-views-i](https://github.com/Shadoww002/Daily-DSA/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/Shadoww002/Daily-DSA/tree/main/1683-invalid-tweets/) | Easy |
+| [1729-find-followers-count](https://github.com/Shadoww002/Daily-DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shadoww002/Daily-DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Shadoww002/Daily-DSA/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Enumeration
