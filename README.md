@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Shadoww002/Daily-DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0087-scramble-string](https://github.com/Shadoww002/Daily-DSA/tree/main/0087-scramble-string/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Shadoww002/Daily-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0322-coin-change](https://github.com/Shadoww002/Daily-DSA/tree/main/0322-coin-change/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0087-scramble-string](https://github.com/Shadoww002/Daily-DSA/tree/main/0087-scramble-string/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Shadoww002/Daily-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Shadoww002/Daily-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
