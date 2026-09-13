@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Shadoww002/Daily-DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shadoww002/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0322-coin-change](https://github.com/Shadoww002/Daily-DSA/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Shadoww002/Daily-DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Shadoww002/Daily-DSA/tree/main/0494-target-sum/) | Medium |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shadoww002/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Shadoww002/Daily-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0887-super-egg-drop](https://github.com/Shadoww002/Daily-DSA/tree/main/0887-super-egg-drop/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Shadoww002/Daily-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -291,4 +293,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Shadoww002/Daily-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Shadoww002/Daily-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shadoww002/Daily-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shadoww002/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
