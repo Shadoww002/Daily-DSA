@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shadoww002/Daily-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Shadoww002/Daily-DSA/tree/main/0127-word-ladder/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/Shadoww002/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shadoww002/Daily-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Shadoww002/Daily-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Shadoww002/Daily-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Shadoww002/Daily-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/Shadoww002/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Shadoww002/Daily-DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Shadoww002/Daily-DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shadoww002/Daily-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Shadoww002/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Shadoww002/Daily-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Shadoww002/Daily-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shadoww002/Daily-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
