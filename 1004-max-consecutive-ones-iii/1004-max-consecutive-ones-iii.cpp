@@ -3,26 +3,26 @@ public:
     int longestOnes(vector<int>& nums, int k) {
         int n = nums.size();
 
-        int i = 0 , j = 0 ;
+        int count_zeros = 0 ; 
+        int maxLen = INT_MIN ;
+        int left = 0 ;
+        int right = 0 ; 
+        
+        while(right < n){
 
-        int maxx = 0 ;
-        int zeros = 0 ;
-        // queue<int> q ;
-
-        while(j < n){
-
-            if(nums[j] == 0){
-                zeros++ ;
+            if(nums[right] == 0){
+                count_zeros++ ;
             }
 
-            while(zeros > k){
-                if(nums[i] == 0) zeros-- ;
-                i++ ;
+            while(count_zeros > k){
+                
+                if(nums[left] == 0) count_zeros -- ;
+                left++ ;
             }
-            maxx = max(maxx , j-i+1);
-            j++ ;
-            
+
+            maxLen = max(maxLen , right - left + 1);
+            right++ ;
         }
-        return maxx ;
+        return maxLen ;
     }
 };
