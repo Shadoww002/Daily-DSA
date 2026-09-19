@@ -3,25 +3,27 @@ public:
     int totalFruit(vector<int>& fruits) {
         int n = fruits.size();
 
-        int i = 0 , j = 0 ;
-        int maxFruits = 0 ;
         unordered_map<int , int> mp ;
+        int left = 0 ;
+        int right = 0 ;
+        int maxFruits = INT_MIN;
 
-        while(j < n){
+        while(right < n){
 
-            mp[fruits[j]] ++ ;
+            mp[fruits[right]]++ ;
 
             while(mp.size() > 2){
-                mp[fruits[i]] -- ;
 
-                if(mp[fruits[i]] == 0){
-                    mp.erase(fruits[i]);
+                mp[fruits[left]] -- ;
+
+                if(mp[fruits[left]] == 0){
+                    mp.erase(fruits[left]);
                 }
-                i++;
+                left ++ ;
             }
-
-            maxFruits = max(maxFruits, j - i + 1);
-            j++ ;
+            
+            maxFruits = max(maxFruits , right - left + 1);
+            right++ ;
         }
 
         return maxFruits ;
