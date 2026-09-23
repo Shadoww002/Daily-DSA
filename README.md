@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Shadoww002/Daily-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shadoww002/Daily-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/Shadoww002/Daily-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadoww002/Daily-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Shadoww002/Daily-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shadoww002/Daily-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0605-can-place-flowers](https://github.com/Shadoww002/Daily-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shadoww002/Daily-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting
