@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Shadoww002/Daily-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shadoww002/Daily-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Shadoww002/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0443-string-compression](https://github.com/Shadoww002/Daily-DSA/tree/main/0443-string-compression/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Shadoww002/Daily-DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shadoww002/Daily-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Shadoww002/Daily-DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Shadoww002/Daily-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shadoww002/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shadoww002/Daily-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/Shadoww002/Daily-DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shadoww002/Daily-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Shadoww002/Daily-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Queue
