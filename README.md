@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Shadoww002/Daily-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0322-coin-change](https://github.com/Shadoww002/Daily-DSA/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Shadoww002/Daily-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Shadoww002/Daily-DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Shadoww002/Daily-DSA/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0518-coin-change-ii/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Shadoww002/Daily-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0217-contains-duplicate](https://github.com/Shadoww002/Daily-DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Shadoww002/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shadoww002/Daily-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Shadoww002/Daily-DSA/tree/main/0567-permutation-in-string/) | Medium |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Shadoww002/Daily-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shadoww002/Daily-DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shadoww002/Daily-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shadoww002/Daily-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shadoww002/Daily-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/Shadoww002/Daily-DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Shadoww002/Daily-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shadoww002/Daily-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -261,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
@@ -367,4 +372,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Shadoww002/Daily-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shadoww002/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
