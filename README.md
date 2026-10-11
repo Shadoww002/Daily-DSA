@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Shadoww002/Daily-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Shadoww002/Daily-DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shadoww002/Daily-DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shadoww002/Daily-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/Shadoww002/Daily-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Shadoww002/Daily-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/Shadoww002/Daily-DSA/tree/main/0743-network-delay-time/) | Medium |
@@ -402,9 +403,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shadoww002/Daily-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shadoww002/Daily-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shadoww002/Daily-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shadoww002/Daily-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shadoww002/Daily-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shadoww002/Daily-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shadoww002/Daily-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shadoww002/Daily-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
